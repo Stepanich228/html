@@ -1,5 +1,5 @@
 body {
-    display: flex;
+    
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -7,11 +7,11 @@ body {
     background-color: #ffffff;
 }
 body.two{
-    background-color: #d47272;
+    background-color: #2b2828;
 }
 
 body.three{
-    background-color: #2b2828;
+    background-color: #3e8a84;
 }
 
 .main-block {
